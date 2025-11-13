@@ -21,4 +21,4 @@ A console-based railway ticket reservation system built with Python.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/railway-reservation-system.git
+git clone https://github.com/Dhanush50/railway_reservation.py-system.git
