@@ -1,0 +1,19 @@
+# Railway Reservation System - Requirements
+# This project uses only Python standard library - no external dependencies required
+
+# Python Version Requirement
+python>=3.6
+
+# No additional packages needed as this project uses built-in Python modules:
+# - Input/Output: input(), print()
+# - Data Structures: lists, dictionaries
+# - Control Flow: if-else, loops, functions
+# - String Operations
+
+# If you plan to extend this project in future, you might add:
+# - pandas>=1.3.0  # For data manipulation
+# - sqlite3        # Built-in database (already included in Python)
+# - tkinter        # Built-in GUI (already included in Python)
+
+# To install any future dependencies, use:
+# pip install -r requirements.txt
